@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Welcome to my personal Repo
 <!--
 **Sattar-mazouzi/Sattar-mazouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-> High-achieving master's graduate student, with an aptitude in electronic and Embedded Systems engineering, Ambitious, adaptable and always Motivated and passionate about developing electronic systems, I'm a self-taught and hard-working person with a passion to gain more, I'm seeking the opportunity to use my background in real-world experience. As I have a bachelor’s degree in Electronics engineering and hold a master’s degree in Embedded Systems, As an individual who is interested in continuous professional development, I’ve gained experience in Analogue and Digital electronic designs, Power Electronics, Microcontrollers and embedded system platforms, Control System design and also have skills in object-oriented programming ( Python and C&C++), throughout my academic career I also gained oral and written communication abilities and strengthened my mathematical skills. I am looking forward to taking my skills to the next level.
+Currntly pusring PhD Researcher at university of Ziane Achour, Djelfa, since 2021. My research was about Monitoring and Optimization and energy managmement systems of electrci and Hybrid electric vehicles.
+
