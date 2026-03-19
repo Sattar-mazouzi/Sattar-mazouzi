@@ -1,20 +1,66 @@
-### Hi there 👋
-Welcome to my personal Repo
-<!--
-**Sattar-mazouzi/Sattar-mazouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdesattar Mazouzi  
+### Researcher & Embedded System Engineer | PhD in Energy Optimization for Hybrid Vehicles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...--> 
+## 📌 About Me  
+Engineer and researcher specializing in Embedded Systems, IoT, Edge AI, and intelligent energy management. Skilled in embedded software development (C/C++), real-time control, and software-in-the-loop (SIL) testing. Experienced in system modeling, optimization, and control for energy-efficient and autonomous applications. Passionate about developing smart, adaptive, and sustainable embedded solutions that drive technological innovation.
+During my PhD, I specialized in **energy optimization for hybrid vehicles**. My research integrates embedded systems, intelligent control, and sustainable energy solutions. With hands-on experience in both academic and industrial environments, I bring a strong foundation in **embedded software development, electronics design, and optimization techniques**.  
 
-High-achieving master's graduate student, with an aptitude in electronic and Embedded Systems engineering, Ambitious, adaptable and always Motivated and passionate about developing electronic systems, I'm a self-taught and hard-working person with a passion to gain more, I'm seeking the opportunity to use my background in real-world experience. As I have a bachelor’s degree in Electronics engineering and hold a master’s degree in Embedded Systems, As an individual who is interested in continuous professional development, I’ve gained experience in Analogue and Digital electronic designs, Power Electronics, Microcontrollers and embedded system platforms, Control System design and also have skills in object-oriented programming ( Python and C&C++), throughout my academic career I also gained oral and written communication abilities and strengthened my mathematical skills. I am looking forward to taking my skills to the next level.
+---
 
-Currntly toward finishing a PhD project.the research project focuses on monitoring and optimising energy management systems for fuel cell hybrid electric vehicles by optimizing fuzzy logic parameters using optimization algorithms, during my research, I was working to design a comprehensive optimizable fuzzy logic inference system subjected to a specific to multi-objective constraint, although my current research seems somehow different from my past research area, I am focusing now on implementing control system and the energy management algorithm in real embedded system hardware. 
+## 🔬 Research & Interests  
+- **PhD Focus**: Energy optimization strategies for hybrid vehicles using intelligent control and fuzzy logic-based EMS, IoT
+- **Domains**: Embedded systems, electronics, optimization, intelligent systems.  
+- **Interests**:  
+  - Sustainable energy and hybrid vehicle technologies  
+  - Edge AI and IoT for intelligent systems  
+  - Hardware-software integration and workflow automation  
+  - Machine learning applications in optimization and control  
+
+---
+
+## 🛠 Skills  
+
+**Programming & Development**  
+- C/C++, Python (OOP, Data Analysis, Machine Learning)  
+- ARM Cortex-M, ESP32, STM32  
+- FreeRTOS, Zephyr RTOS, ESP-IDF, MATLAB/Simulink  
+
+**Tools & Environments**  
+- Git/GitHub, Docker, QEMU simulation  
+- Electronic circuit & PCB design (KiCad)  
+- Communication protocols: I²C, SPI, UART, CAN  
+
+**Engineering Areas**  
+- Embedded systems design & hardware interfacing  
+- Energy optimization for hybrid vehicles  
+- IoT and Edge AI integration  
+- Hardware-in-the-loop (HIL) testing and system modeling  
+
+---
+
+## 🚀 Current Work / Projects  
+- **PhD Research**: Developing an intelligent, comprehensive energy management system  for electric and hybrid vehicles.  
+- **Workflow Optimization**: Streamlining Docker storage and system configuration for scalable embedded development.  
+- **Applied Research**: Hardware-in-the-loop testing with DSpace Scalexio during visiting researcher placement at the University of Sussex.
+- **Visit my portfolio for more projects**: [My portfolio](https://portfolio.abdesattarmazouzi.workers.dev/)  
+
+---
+
+## 📖 Publications & Research Focus  
+- *Particle Swarm Optimization of Fuzzy Logic-Based Energy Management System for Enhanced Efficiency in Fuel Cell Hybrid Electric Vehicles*, Sustainable Computing: Informatics and Systems, 2025  
+- *Comprehensive Optimization of Fuzzy Logic-Based Energy Management System for Fuel-Cell Hybrid Electric Vehicle Using Genetic Algorithm*, International Journal of Hydrogen Energy, 2024  
+- *Design of Fuzzy Logic-Based Energy Management System for Fuel Cell/Battery Hybrid Electric Vehicle*, 2023  
+
+---
+
+## 📫 Contact / Connect  
+- **Portfolio**: [portfolio.abdesattarmazouzi.workers.dev](https://portfolio.abdesattarmazouzi.workers.dev/)  
+- **GitHub**: [github.com/abdesattar-mazouzi](https://github.com/Sattar-mazouzi/)  
+- **LinkedIn**: [linkedin.com/in/abdesattar-mazouzi](https://www.linkedin.com/in/abdesattar-mazouzi6/)  
+- **Email**: sattarmazouzi@outlook.com  
+
+---
+
 
