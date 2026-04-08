@@ -54,6 +54,11 @@ During my PhD, I specialized in **energy optimization for hybrid vehicles**. My 
 - *Design of Fuzzy Logic-Based Energy Management System for Fuel Cell/Battery Hybrid Electric Vehicle*, 2023  
 
 ---
+## Stats 
+![Abdesattar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
 
 ## 📫 Contact / Connect  
 - **Portfolio**: [portfolio.abdesattarmazouzi.workers.dev](https://portfolio.abdesattarmazouzi.workers.dev/)  
