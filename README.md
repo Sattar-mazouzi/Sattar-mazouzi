@@ -1,5 +1,5 @@
 # Abdesattar Mazouzi  
-### Researcher & Embedded System Engineer | PhD in Energy Optimization for Hybrid Vehicles  
+### Researcher & Embedded Systems Engineer | PhD in Energy Optimization for Hybrid Vehicles | Vibe Coder  
 
 ---
 
@@ -25,18 +25,21 @@ During my PhD, I specialized in **energy optimization for hybrid vehicles**. My 
 **Programming & Development**  
 - C/C++, Python (OOP, Data Analysis, Machine Learning)  
 - ARM Cortex-M, ESP32, STM32  
-- FreeRTOS, Zephyr RTOS, ESP-IDF, MATLAB/Simulink  
+- FreeRTOS, Zephyr RTOS, ESP-IDF, MATLAB/Simulink
+- AI Code  
 
 **Tools & Environments**  
 - Git/GitHub, Docker, QEMU simulation  
 - Electronic circuit & PCB design (KiCad)  
-- Communication protocols: I²C, SPI, UART, CAN  
+- Communication protocols: I²C, SPI, UART, CAN
+- Vibe Coder: Google AI Studio, Antigravity, Claude Code
 
 **Engineering Areas**  
 - Embedded systems design & hardware interfacing  
 - Energy optimization for hybrid vehicles  
 - IoT and Edge AI integration  
-- Hardware-in-the-loop (HIL) testing and system modeling  
+- Hardware-in-the-loop (HIL) testing and system modeling
+- Data Science (Data Analysis, Processing, ML Models )   
 
 ---
 
